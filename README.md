@@ -1,6 +1,6 @@
 # Python_BI_2022
 ## Homework1
-This script was created as part of study prosses. 
+This script was created as a part of study prosses. 
 
 The program includes the following subprograms :
 * transcribe - Generation of the RNA sequence based on the input DNA sequence; 
