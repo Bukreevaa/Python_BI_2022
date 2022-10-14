@@ -1,4 +1,4 @@
-### Python_BI_2022
+# Python_BI_2022
 ## Homework1
 
 This script was created as a part of study prosses.
