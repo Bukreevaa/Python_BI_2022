@@ -1,4 +1,4 @@
-##Fastq filtrator
+## Fastq filtrator
 
 A program for working with fastq files.
 
