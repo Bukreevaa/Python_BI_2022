@@ -53,7 +53,7 @@ In my case I had to install the modules below
 - html5lib
 > pip install html5lib
 - lxml
->  Pip install lxml
+> pip install lxml
 
 In my case installation of this modules was enough for successful running of program python.py
 
