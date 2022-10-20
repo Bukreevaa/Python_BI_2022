@@ -4,8 +4,7 @@ OC : Ubuntu (64-bit) on VirtualBox  (in my case)
 Python version: 3.10._ (in any case)
 
 **Step one: preparing your workspace** 
-The most convenient way to prepare the workspace is to create a virtual environment. If you never use virtual environment on your machine you can easily do it using this manual: <https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d
-0332cef7a653bcd762f08d>
+The most convenient way to prepare the workspace is to create a virtual environment. If you never use virtual environment on your machine you can easily do it using this manual: <https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d0332cef7a653bcd762f08d>
 I did it with the commands below:
 > sudo apt install -y python3-pip
 > sudo apt install -y python3-venv
@@ -17,7 +16,7 @@ I did it with the commands below:
 
 **Step two: clone my repository (to get the program file)** 
 
-For this step you just need the link of this repository and use this command:
+For this step you just need the link of this repository (in the command example it is -  https://github.com/rep/rep, but it is wrong, please, change it) and use this command:
 
 > git clone https://github.com/rep/rep
 
