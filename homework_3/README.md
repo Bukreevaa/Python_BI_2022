@@ -4,7 +4,7 @@ You will be able to run this script successfully using my step-by-step tutorial 
 * Python version: 3.10._ (in any case)
 
 **Step one: preparing your workspace** 
-The most convenient way to prepare the workspace is to create a virtual environment. If you never use virtual environment on your machine you can easily do it using this manual: <https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d0332cef7a653bcd762f08d>
+The most convenient way to prepare the workspace is to create a virtual environment. If you never use virtual environment on your machine you can easily do it using this manual: [<https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d0332cef7a653bcd762f08d>](https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d)
 I did it with the commands below:
 > sudo apt install -y python3-pip
 > sudo apt install -y python3-venv
