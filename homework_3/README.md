@@ -1,6 +1,6 @@
 You will be able to run this script successfully using my step-by-step tutorial below.
 
-OC : Ubuntu (64-bit) on VirtualBox  (in my case)
+OC : Ubuntu (64-bit) on VirtualBox  (in my case) \n
 Python version: 3.10._ (in any case)
 
 **Step one: preparing your workspace** 
