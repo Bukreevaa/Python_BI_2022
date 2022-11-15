@@ -7,6 +7,8 @@ Upon a Time in Hollywoo'])
    array2 = np.eye(5)
    array3 = np.linspace(0, 25, 300)
 
+
+
 def matrix_multiplication(matrix1, matrix2):
     try:
         result = np.multiply(matrix1, matrix2)
