@@ -1,4 +1,4 @@
-## Homework 7
+# Homework 7
 
 
 **sequential_map** - the function takes as arguments any number of functions (by positional arguments, not by list) and a container with some values. 
