@@ -1,13 +1,16 @@
-*sequential_map* - the function takes as arguments any number of functions (by positional arguments, not by list) and a container with some values. 
+## Homework 7
+
+
+**sequential_map** - the function takes as arguments any number of functions (by positional arguments, not by list) and a container with some values. 
 The function returns a list of results of sequential application of the passed functions to the values in the container.
 
 
-*consensus_filter* - the function takes as arguments any number of functions (with positional arguments, not a list) that return True or False, as well as a container of some values.
+**consensus_filter** - the function takes as arguments any number of functions (with positional arguments, not a list) that return True or False, as well as a container of some values.
 The function returns a list of values that, when passed to all functions, return True.
 
-*conditional_reduce* - function accepts 2 functions and a container of values. The first function takes 1 argument and return True or False, the second  takes 2 arguments and returns a value (as in the reduce function). 
+**conditional_reduce** - function accepts 2 functions and a container of values. The first function takes 1 argument and return True or False, the second  takes 2 arguments and returns a value (as in the reduce function). 
 
-*func_chain* - a function takes any number of functions as arguments ( by positional arguments, not by list). 
+**func_chain** - a function takes any number of functions as arguments ( by positional arguments, not by list). 
 The function must return a function combining all passed in consecutive executions. 
 
-*multiple_partial* - this function is analogous to the partial function (from functools), but it takes an unlimited number of functions as arguments and returns a list of the same number of "partial functions".
+**multiple_partial** - this function is analogous to the partial function (from functools), but it takes an unlimited number of functions as arguments and returns a list of the same number of "partial functions".
